@@ -19,7 +19,7 @@
     </head>
     <body>
         <header>
-            <a href='../ pages/index.php' class="logo">
+            <a href='../pages/index.php' class="logo">
                 <img src="../assets/images/header.png" alt="">
                 <!--<h1 class="logo-text"><span>My</span> Blog</h1>--->
             </a>
